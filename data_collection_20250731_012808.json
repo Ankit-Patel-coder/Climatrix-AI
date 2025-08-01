@@ -1,0 +1,639 @@
+{
+  "timestamp": "2025-07-31 01:28:08.339358",
+  "weather": {
+    "openweather": {
+      "current": {
+        "temperature": 22.5,
+        "humidity": 65,
+        "pressure": 1013.25,
+        "wind_speed": 5.2,
+        "wind_direction": 180,
+        "description": "Partly cloudy"
+      },
+      "forecast": [
+        {
+          "timestamp": "2025-07-31 01:28:08.339244",
+          "temperature": 20.0,
+          "humidity": 60,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 02:28:08.339252",
+          "temperature": 20.5,
+          "humidity": 62,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 03:28:08.339255",
+          "temperature": 21.0,
+          "humidity": 64,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 04:28:08.339257",
+          "temperature": 21.5,
+          "humidity": 66,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 05:28:08.339258",
+          "temperature": 22.0,
+          "humidity": 68,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 06:28:08.339259",
+          "temperature": 22.5,
+          "humidity": 70,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 07:28:08.339260",
+          "temperature": 23.0,
+          "humidity": 72,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 08:28:08.339261",
+          "temperature": 23.5,
+          "humidity": 74,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 09:28:08.339262",
+          "temperature": 24.0,
+          "humidity": 76,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 10:28:08.339263",
+          "temperature": 24.5,
+          "humidity": 78,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 11:28:08.339264",
+          "temperature": 25.0,
+          "humidity": 80,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 12:28:08.339265",
+          "temperature": 25.5,
+          "humidity": 82,
+          "precipitation": 0.1
+        },
+        {
+          "timestamp": "2025-07-31 13:28:08.339266",
+          "temperature": 26.0,
+          "humidity": 84,
+          "precipitation": 0.2
+        },
+        {
+          "timestamp": "2025-07-31 14:28:08.339267",
+          "temperature": 26.5,
+          "humidity": 86,
+          "precipitation": 0.30000000000000004
+        },
+        {
+          "timestamp": "2025-07-31 15:28:08.339268",
+          "temperature": 27.0,
+          "humidity": 88,
+          "precipitation": 0.4
+        },
+        {
+          "timestamp": "2025-07-31 16:28:08.339268",
+          "temperature": 27.5,
+          "humidity": 90,
+          "precipitation": 0.5
+        },
+        {
+          "timestamp": "2025-07-31 17:28:08.339269",
+          "temperature": 28.0,
+          "humidity": 92,
+          "precipitation": 0.6000000000000001
+        },
+        {
+          "timestamp": "2025-07-31 18:28:08.339270",
+          "temperature": 28.5,
+          "humidity": 94,
+          "precipitation": 0.7000000000000001
+        },
+        {
+          "timestamp": "2025-07-31 19:28:08.339271",
+          "temperature": 29.0,
+          "humidity": 96,
+          "precipitation": 0.8
+        },
+        {
+          "timestamp": "2025-07-31 20:28:08.339274",
+          "temperature": 29.5,
+          "humidity": 98,
+          "precipitation": 0.9
+        },
+        {
+          "timestamp": "2025-07-31 21:28:08.339275",
+          "temperature": 30.0,
+          "humidity": 100,
+          "precipitation": 1.0
+        },
+        {
+          "timestamp": "2025-07-31 22:28:08.339276",
+          "temperature": 30.5,
+          "humidity": 102,
+          "precipitation": 1.1
+        },
+        {
+          "timestamp": "2025-07-31 23:28:08.339277",
+          "temperature": 31.0,
+          "humidity": 104,
+          "precipitation": 1.2000000000000002
+        },
+        {
+          "timestamp": "2025-08-01 00:28:08.339278",
+          "temperature": 31.5,
+          "humidity": 106,
+          "precipitation": 1.3
+        }
+      ]
+    },
+    "noaa": {
+      "current": {
+        "temperature": 23.1,
+        "humidity": 62,
+        "pressure": 1012.8,
+        "wind_speed": 4.8,
+        "wind_direction": 175,
+        "visibility": 10.0
+      },
+      "forecast": [
+        {
+          "timestamp": "2025-07-31 01:28:08.339280",
+          "temperature": 21.0,
+          "humidity": 58.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 02:28:08.339282",
+          "temperature": 21.3,
+          "humidity": 59.5,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 03:28:08.339283",
+          "temperature": 21.6,
+          "humidity": 61.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 04:28:08.339285",
+          "temperature": 21.9,
+          "humidity": 62.5,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 05:28:08.339286",
+          "temperature": 22.2,
+          "humidity": 64.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 06:28:08.339286",
+          "temperature": 22.5,
+          "humidity": 65.5,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 07:28:08.339287",
+          "temperature": 22.8,
+          "humidity": 67.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 08:28:08.339288",
+          "temperature": 23.1,
+          "humidity": 68.5,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 09:28:08.339289",
+          "temperature": 23.4,
+          "humidity": 70.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 10:28:08.339290",
+          "temperature": 23.7,
+          "humidity": 71.5,
+          "precipitation": 0.15
+        },
+        {
+          "timestamp": "2025-07-31 11:28:08.339291",
+          "temperature": 24.0,
+          "humidity": 73.0,
+          "precipitation": 0.3
+        },
+        {
+          "timestamp": "2025-07-31 12:28:08.339293",
+          "temperature": 24.3,
+          "humidity": 74.5,
+          "precipitation": 0.44999999999999996
+        },
+        {
+          "timestamp": "2025-07-31 13:28:08.339294",
+          "temperature": 24.6,
+          "humidity": 76.0,
+          "precipitation": 0.6
+        },
+        {
+          "timestamp": "2025-07-31 14:28:08.339295",
+          "temperature": 24.9,
+          "humidity": 77.5,
+          "precipitation": 0.75
+        },
+        {
+          "timestamp": "2025-07-31 15:28:08.339295",
+          "temperature": 25.2,
+          "humidity": 79.0,
+          "precipitation": 0.8999999999999999
+        },
+        {
+          "timestamp": "2025-07-31 16:28:08.339296",
+          "temperature": 25.5,
+          "humidity": 80.5,
+          "precipitation": 1.05
+        },
+        {
+          "timestamp": "2025-07-31 17:28:08.339297",
+          "temperature": 25.8,
+          "humidity": 82.0,
+          "precipitation": 1.2
+        },
+        {
+          "timestamp": "2025-07-31 18:28:08.339299",
+          "temperature": 26.1,
+          "humidity": 83.5,
+          "precipitation": 1.3499999999999999
+        },
+        {
+          "timestamp": "2025-07-31 19:28:08.339300",
+          "temperature": 26.4,
+          "humidity": 85.0,
+          "precipitation": 1.5
+        },
+        {
+          "timestamp": "2025-07-31 20:28:08.339301",
+          "temperature": 26.7,
+          "humidity": 86.5,
+          "precipitation": 1.65
+        },
+        {
+          "timestamp": "2025-07-31 21:28:08.339301",
+          "temperature": 27.0,
+          "humidity": 88.0,
+          "precipitation": 1.7999999999999998
+        },
+        {
+          "timestamp": "2025-07-31 22:28:08.339302",
+          "temperature": 27.3,
+          "humidity": 89.5,
+          "precipitation": 1.95
+        },
+        {
+          "timestamp": "2025-07-31 23:28:08.339303",
+          "temperature": 27.6,
+          "humidity": 91.0,
+          "precipitation": 2.1
+        },
+        {
+          "timestamp": "2025-08-01 00:28:08.339304",
+          "temperature": 27.9,
+          "humidity": 92.5,
+          "precipitation": 2.25
+        }
+      ]
+    },
+    "nws": {
+      "current": {
+        "temperature": 21.8,
+        "humidity": 68,
+        "pressure": 1014.2,
+        "wind_speed": 6.1,
+        "wind_direction": 185,
+        "conditions": "Mostly cloudy"
+      },
+      "forecast": [
+        {
+          "timestamp": "2025-07-31 01:28:08.339310",
+          "temperature": 19.0,
+          "humidity": 65.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 02:28:08.339311",
+          "temperature": 19.4,
+          "humidity": 66.8,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 03:28:08.339312",
+          "temperature": 19.8,
+          "humidity": 68.6,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 04:28:08.339313",
+          "temperature": 20.2,
+          "humidity": 70.4,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 05:28:08.339314",
+          "temperature": 20.6,
+          "humidity": 72.2,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 06:28:08.339315",
+          "temperature": 21.0,
+          "humidity": 74.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 07:28:08.339317",
+          "temperature": 21.4,
+          "humidity": 75.8,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 08:28:08.339318",
+          "temperature": 21.8,
+          "humidity": 77.6,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 09:28:08.339319",
+          "temperature": 22.2,
+          "humidity": 79.4,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 10:28:08.339320",
+          "temperature": 22.6,
+          "humidity": 81.2,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 11:28:08.339321",
+          "temperature": 23.0,
+          "humidity": 83.0,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 12:28:08.339322",
+          "temperature": 23.4,
+          "humidity": 84.8,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 13:28:08.339323",
+          "temperature": 23.8,
+          "humidity": 86.6,
+          "precipitation": 0.0
+        },
+        {
+          "timestamp": "2025-07-31 14:28:08.339324",
+          "temperature": 24.2,
+          "humidity": 88.4,
+          "precipitation": 0.12
+        },
+        {
+          "timestamp": "2025-07-31 15:28:08.339324",
+          "temperature": 24.6,
+          "humidity": 90.2,
+          "precipitation": 0.24
+        },
+        {
+          "timestamp": "2025-07-31 16:28:08.339325",
+          "temperature": 25.0,
+          "humidity": 92.0,
+          "precipitation": 0.36
+        },
+        {
+          "timestamp": "2025-07-31 17:28:08.339326",
+          "temperature": 25.4,
+          "humidity": 93.8,
+          "precipitation": 0.48
+        },
+        {
+          "timestamp": "2025-07-31 18:28:08.339327",
+          "temperature": 25.8,
+          "humidity": 95.6,
+          "precipitation": 0.6
+        },
+        {
+          "timestamp": "2025-07-31 19:28:08.339328",
+          "temperature": 26.2,
+          "humidity": 97.4,
+          "precipitation": 0.72
+        },
+        {
+          "timestamp": "2025-07-31 20:28:08.339329",
+          "temperature": 26.6,
+          "humidity": 99.2,
+          "precipitation": 0.84
+        },
+        {
+          "timestamp": "2025-07-31 21:28:08.339329",
+          "temperature": 27.0,
+          "humidity": 101.0,
+          "precipitation": 0.96
+        },
+        {
+          "timestamp": "2025-07-31 22:28:08.339330",
+          "temperature": 27.4,
+          "humidity": 102.80000000000001,
+          "precipitation": 1.08
+        },
+        {
+          "timestamp": "2025-07-31 23:28:08.339331",
+          "temperature": 27.8,
+          "humidity": 104.6,
+          "precipitation": 1.2
+        },
+        {
+          "timestamp": "2025-08-01 00:28:08.339332",
+          "temperature": 28.200000000000003,
+          "humidity": 106.4,
+          "precipitation": 1.3199999999999998
+        }
+      ]
+    }
+  },
+  "satellite": {
+    "landsat": {
+      "collection": "landsat-8",
+      "timestamp": "2025-07-31T01:28:08.339335",
+      "bands": {
+        "red": 0.1,
+        "green": 0.15,
+        "blue": 0.05,
+        "nir": 0.2,
+        "swir1": 0.1,
+        "swir2": 0.08
+      },
+      "indices": {
+        "ndvi": 0.3,
+        "evi": 0.2,
+        "ndwi": -0.1
+      }
+    },
+    "sentinel": {
+      "collection": "sentinel-2",
+      "timestamp": "2025-07-31T01:28:08.339340",
+      "bands": {
+        "red": 0.12,
+        "green": 0.18,
+        "blue": 0.06,
+        "nir": 0.25,
+        "swir1": 0.12,
+        "swir2": 0.09
+      },
+      "indices": {
+        "ndvi": 0.35,
+        "evi": 0.25,
+        "ndwi": -0.08
+      }
+    },
+    "modis": {
+      "collection": "modis",
+      "timestamp": "2025-07-31T01:28:08.339342",
+      "products": {
+        "ndvi": 0.32,
+        "lst": 25.5,
+        "evi": 0.22,
+        "lai": 2.1
+      }
+    }
+  },
+  "sensors": {
+    "soil": {
+      "sensors": [
+        {
+          "sensor_id": "soil_001",
+          "location": {
+            "lat": 40.7128,
+            "lon": -74.006
+          },
+          "soil_moisture": 0.35,
+          "soil_temperature": 22.5,
+          "soil_ph": 6.8,
+          "timestamp": "2025-07-31T01:28:08.339346"
+        },
+        {
+          "sensor_id": "soil_002",
+          "location": {
+            "lat": 40.715,
+            "lon": -74.008
+          },
+          "soil_moisture": 0.28,
+          "soil_temperature": 21.8,
+          "soil_ph": 7.1,
+          "timestamp": "2025-07-31T01:28:08.339347"
+        }
+      ]
+    },
+    "water": {
+      "sensors": [
+        {
+          "sensor_id": "water_001",
+          "location": {
+            "lat": 40.7128,
+            "lon": -74.006
+          },
+          "water_level": 1.8,
+          "water_temperature": 18.5,
+          "water_ph": 7.2,
+          "flow_rate": 45.2,
+          "timestamp": "2025-07-31T01:28:08.339349"
+        },
+        {
+          "sensor_id": "water_002",
+          "location": {
+            "lat": 40.715,
+            "lon": -74.008
+          },
+          "water_level": 2.1,
+          "water_temperature": 19.2,
+          "water_ph": 7.0,
+          "flow_rate": 38.7,
+          "timestamp": "2025-07-31T01:28:08.339350"
+        }
+      ]
+    },
+    "weather_station": {
+      "stations": [
+        {
+          "station_id": "weather_001",
+          "location": {
+            "lat": 40.7128,
+            "lon": -74.006
+          },
+          "temperature": 23.5,
+          "humidity": 65.0,
+          "pressure": 1013.25,
+          "wind_speed": 5.2,
+          "wind_direction": 180.0,
+          "precipitation": 0.0,
+          "timestamp": "2025-07-31T01:28:08.339352"
+        },
+        {
+          "station_id": "weather_002",
+          "location": {
+            "lat": 40.715,
+            "lon": -74.008
+          },
+          "temperature": 24.1,
+          "humidity": 62.0,
+          "pressure": 1012.8,
+          "wind_speed": 4.8,
+          "wind_direction": 175.0,
+          "precipitation": 0.0,
+          "timestamp": "2025-07-31T01:28:08.339353"
+        }
+      ]
+    },
+    "air_quality": {
+      "sensors": [
+        {
+          "sensor_id": "aq_001",
+          "location": {
+            "lat": 40.7128,
+            "lon": -74.006
+          },
+          "pm25": 12.5,
+          "pm10": 25.3,
+          "co": 0.8,
+          "no2": 15.2,
+          "o3": 45.8,
+          "timestamp": "2025-07-31T01:28:08.339354"
+        },
+        {
+          "sensor_id": "aq_002",
+          "location": {
+            "lat": 40.715,
+            "lon": -74.008
+          },
+          "pm25": 14.2,
+          "pm10": 28.7,
+          "co": 1.1,
+          "no2": 18.5,
+          "o3": 42.3,
+          "timestamp": "2025-07-31T01:28:08.339355"
+        }
+      ]
+    }
+  },
+  "processed": true,
+  "derived_metrics": {}
+}
