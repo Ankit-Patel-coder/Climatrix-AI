@@ -17,11 +17,6 @@ An advanced AI-powered system that analyzes environmental data, weather patterns
 - **Environmental Sensors**: IoT device integration
 - **Historical Data**: Past disaster patterns and climate trends
 
-### 🚨 Early Warning System
-- **Real-time Alerts**: SMS, email, and push notifications
-- **Risk Assessment**: Community vulnerability mapping
-- **Preparedness Plans**: Automated response recommendations
-- **Evacuation Routes**: Dynamic path optimization
 
 ### 📊 Community Dashboard
 - **Interactive Maps**: Real-time disaster risk visualization
